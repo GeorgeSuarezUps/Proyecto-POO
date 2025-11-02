@@ -38,7 +38,7 @@ Este proyecto está configurado para ser ejecutado en el entorno de desarrollo E
 
 1. **Clonar el Repositorio:** Utiliza el siguiente enlace para obtener el código fuente:
 ```
-git clone [ENLACE DE TU REPOSITORIO]
+git clone https://github.com/GeorgeSuarezUps/Proyecto-POO.git
 ```
 2. **Importar en Eclipse:** En Eclipse, ve a File > Import > Git > Projects from Git > Existing local repository.
 3. **Ejecutar:** El punto de entrada del sistema es la clase poo.PruebaAudioVisual.java. Ejecuta el método main de esta clase para ver la demostración de todas las relaciones y funcionalidades. 
