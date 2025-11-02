@@ -44,6 +44,7 @@ git clone https://github.com/GeorgeSuarezUps/Proyecto-POO.git
 3. **Ejecutar:** El punto de entrada del sistema es la clase poo.PruebaAudioVisual.java. Ejecuta el método main de esta clase para ver la demostración de todas las relaciones y funcionalidades. 
 
 <h2>📈 4. Evidencia de Gestión del Proyecto</h2>
+
 - Estructura del Proyecto: El código fuente se encuentra en la carpeta src/main/java.
 - Commits Mínimos: El proyecto incluye un mínimo de 3 commits adicionales para trazar el progreso de las Etapas 2 y 4.
 + **Mejoras Adicionales:**
